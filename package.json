@@ -8,11 +8,11 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230628.0",
-    "typescript": "^5.1.6",
-    "wrangler": "^3.4.0"
+    "typescript": "^5.2.2",
+    "wrangler": "^3.6.0"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "langchain": "^0.0.123"
+    "langchain": "^0.0.139"
   }
 }
